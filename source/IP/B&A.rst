@@ -16,7 +16,10 @@
 
 这些都是通过一个多级的AHB总线构架相互连接的，如所示：
 
-.. image:: ../static/532585.png
+.. figure:: ../static/532585.png
+    :align: center
+
+    系统架构
 
 系统总线
 ^^^^^^^^
