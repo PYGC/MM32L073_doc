@@ -15,3 +15,26 @@
    IP/PWR
    IP/BKP
    IP/RCC
+   IP/GPIO
+   IP/EXTI
+   IP/DMA
+   IP/ADC
+   IP/COMP
+   IP/TIM1
+   IP/TIMx16
+   IP/TIMx32
+   IP/TIM14
+   IP/TIM1617
+   IP/IWDG
+   IP/WWDG
+   IP/SPI
+   IP/I2C
+   IP/UART
+   IP/CAN
+   IP/USB
+   IP/CRS
+   IP/AES
+   IP/SYSCFG
+   IP/Device
+   IP/DBG
+
