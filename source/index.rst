@@ -29,7 +29,7 @@
    IP/WWDG
    IP/SPI
    IP/I2C
-   IP/UART
+   IP/UART/UART
    IP/CAN
    IP/USB
    IP/CRS
