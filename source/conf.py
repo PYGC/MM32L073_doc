@@ -109,7 +109,7 @@ htmlhelp_basename = 'MM32L073doc'
 
 # -- Options for LaTeX output ------------------------------------------------
 
-latex_elements = {
+# latex_elements = {
     # The paper size ('letterpaper' or 'a4paper').
     #
     # 'papersize': 'letterpaper',
@@ -125,15 +125,15 @@ latex_elements = {
     # Latex figure (float) alignment
     #
     # 'figure_align': 'htbp',
-}
+# }
 
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
-latex_documents = [
-    (master_doc, 'MM32L073.tex', 'MM32L073 Documentation',
-     'MindMotion', 'manual'),
-]
+# latex_documents = [
+#     (master_doc, 'MM32L073.tex', 'MM32L073 Documentation',
+#      'MindMotion', 'manual'),
+# ]
 
 
 # -- Options for manual page output ------------------------------------------
@@ -151,11 +151,11 @@ man_pages = [
 # Grouping the document tree into Texinfo files. List of tuples
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
-texinfo_documents = [
-    (master_doc, 'MM32L073', 'MM32L073 Documentation',
-     author, 'MM32L073', 'One line description of project.',
-     'Miscellaneous'),
-]
+# texinfo_documents = [
+#     (master_doc, 'MM32L073', 'MM32L073 Documentation',
+#      author, 'MM32L073', 'One line description of project.',
+#      'Miscellaneous'),
+# ]
 
 
 # -- Options for Epub output -------------------------------------------------
